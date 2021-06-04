@@ -58,7 +58,6 @@ h2 {
 p {
     color: ghostwhite;
     text-align: left;
-    align-content: left;
     padding-left: 30px;
     padding-top: 35px;
     font-size: 20px;
@@ -66,3 +65,14 @@ p {
     font-weight: lighter;
 }
 
+.btn {
+    margin-top: 20px;
+    margin-right: 180px;
+    border: 1px solid rgba(215, 215, 215, 0.42);
+    background-color: transparent ;
+    height: 50px;
+    width: 150px;
+    color: white;
+    font-size: 1rem;
+    border-radius: 8px;
+}
