@@ -55,14 +55,10 @@ footer {
 
 .footer-bottom h1 {
     margin-right: 300px;
+    margin-bottom: 100px;
+    margin-top: 500px;
     color: white;
     display: initial;
-;
-}
-
-.footer-bottom p {
-    padding-bottom:15px;
-
 }
 
 
